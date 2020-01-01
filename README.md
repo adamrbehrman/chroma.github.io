@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Chroma!
 
-You can use the [editor on GitHub](https://github.com/adamrbehrman/chroma.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Chroma is an ear training app. We think it might be the best one.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Chroma is based off of synesthetic experiences. By matching each note to a color, you will build an association between the note and its color. In short, you’ll learn perfect pitch through music and colors! 
 
-### Markdown
+### Features:
+- Easy to get started. No manual, no complicated tests. Just you and the music.
+- Trainer test to refine your skill as you go. Watch your score or reset it. Skip hard notes. Replay ones you missed.
+- Full note-color customization. Pick your keyboard colors immediately or change them as you go.
+- Revolutionary new pitch detection algorithm and immersive AR visualizer. Use this to experience any music as a synesthete would!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Synesthete see colors when they listen to music. If you want to experience this, let Chroma change the way you experience sound. Create your own practice routine. We recommend 10 minutes of daily practice with Chroma.
 
-```markdown
-Syntax highlighted code block
+This app is being developed by researchers at Elon University studying the effects of sound-color on aural training. 
 
-# Header 1
-## Header 2
-### Header 3
+### Support for Chroma
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adamrbehrman/chroma.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Chroma? Contact the developer at adamrbehrman@gmail.com
