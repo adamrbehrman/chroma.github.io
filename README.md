@@ -2,7 +2,7 @@
 
 Chroma is an ear training app. We think it might be the best one.
 
-Chroma is based off of synesthetic experiences. By matching each note to a color, you will build an association between the note and its color. In short, you’ll learn perfect pitch through music and colors! 
+Chroma is based off of synesthetic experiences. By matching each note to a color, you will build an association between the note and its color. Basically, you could learn perfect pitch through music and colors! 
 
 ### Features:
 - Easy to get started. No manual, no complicated tests. Just you and the music.
